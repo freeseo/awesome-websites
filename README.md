@@ -73,6 +73,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://crontab.guru](https://crontab.guru/) : The quick and simple editor for cron schedule expressions.
 * [http://cloudping.bastionhost.org](http://cloudping.bastionhost.org/en/) : This site allows you to perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world.
 * [https://chirpty.com](https://chirpty.com/) : Create your own Twitter interaction circle.
+* [https://charactercount.org](https://charactercount.org) : Online character counting tool and Google Chrome extension.
+
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -137,6 +139,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://fixmie.com](https://fixmie.com/) : Fixmie analyzes and automatically fixes your source code by providing smart and useful suggestions.
 * [https://frontendchecklist.io](https://frontendchecklist.io) : The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 * [https://www.factoftheday1.com](https://www.factoftheday1.com/) : A fact every business day about the tech industry, business leadership, and thought-provoking ideas.
+* [https://favicon.guru](https://favicon.guru) : Generate favicon for website, png to ico conveter.
 
 ## G :
 * [http://gizoogle.net](http://gizoogle.net/) : Translate your words into Snoop Dogg style gangsta.
